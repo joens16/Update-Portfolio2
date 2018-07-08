@@ -424,7 +424,7 @@ function ronnie_tm_animate_text(){
 	var animateSpan			= jQuery('.ronnie_tm_animation_text_word');
 	
 		animateSpan.typed({
-			strings: ["Enrique Salas", "Web Developergit add -A"],
+			strings: ["Enrique Salas", "Web Developer"],
 			loop: true,
 			startDelay: 1e3,
 			backDelay: 2e3
