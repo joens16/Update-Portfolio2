@@ -55,6 +55,11 @@ body{
 	text-decoration: none;
 	font-family: 'Galada', cursive;
 }
+.appName{
+	color: white;
+	padding-left: 10px; 
+	font-weight: 1000;
+}
 svg{
 	fill: currentcolor;
 	width: 15px;
