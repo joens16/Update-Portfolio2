@@ -503,7 +503,8 @@ a.fn.owlCarousel.Constructor.Plugins.Animate=e}(window.Zepto||window.jQuery,wind
 
 	"use strict";
 
-	var Typed = function(el, options) {
+	var Typ
+	ed = function(el, options) {
 
 		// chosen element to manipulate text
 		this.el = $(el);

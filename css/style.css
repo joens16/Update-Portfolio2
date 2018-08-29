@@ -33,13 +33,16 @@ html {
 	padding: 0px;
 	margin: 0px
 }
-body{
+.body{
 	font-family: "Open Sans";
 	font-size: 14px;
 	line-height: 1.8;
 	letter-spacing: 0.5px;
 	word-wrap: break-word;
 	font-weight: 400;
+	background-color: yellow;
+
+
 }
 .light_logo{
 	color: white;
